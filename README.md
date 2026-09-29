@@ -34,8 +34,7 @@ Para usarlos juntos en un mismo mundo hay que llevar ambos a la misma versión d
 ## Créditos
 
 - El modelo del terreno (`Gale Crater Patch1`) es obra de Jasmeet Singh, según consta en su `model.config`.
-- La malla del rover corresponde al modelo público del rover Perseverance de la misión NASA Mars 2020.
-- La configuración de sensores (IMU y lidar) y el ensamblaje de la simulación son del autor de este repositorio.
+- El rover se basa en el modelo público del Perseverance de la misión NASA Mars 2020 (ver `Rover lidar/model.config`).
 
 ## Autor
 
